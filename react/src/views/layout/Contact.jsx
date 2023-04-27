@@ -92,7 +92,7 @@ const Contact = () => {
           </form>
         
       </div>
-      <p className='mt-20 text-sm'>Designed and Created by Meilchu Cabaluna. Source code here <button className='dark:text-green-300 text-green-900'><AiFillGithub className='ml-1 text-2xl'/></button></p>
+      <a href='https://github.com/Meil1994/MyPortfolio/tree/main/react' target='blank'><p className='mt-20 text-sm'>Designed and Created by Meilchu Cabaluna. Source code here <button className='dark:text-green-300 text-green-900'><AiFillGithub className='ml-1 text-2xl'/></button></p></a>
     </div>
   )
 }
